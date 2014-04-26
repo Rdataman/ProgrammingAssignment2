@@ -1,4 +1,5 @@
-## Programming Assignment #2 in R Programming: Caching the Inverse of a Matrix
+## Caching the Inverse of a Matrix
+## Programming Assignment #2 in R Programming:version1.0
 
 ## Two functions are included: "makeCacheMatrix" and "cacheSolve".
 ## "cacheSolve" is based on "makeCacheMatrix".
